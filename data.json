@@ -1,0 +1,60 @@
+{
+  "phones": [
+    {
+      "iphoneModel": "iphone 15 pro",
+      "iphoneCapacity": "Capacity: 128GB, 256GB, 512GB, 1TB",
+      "iphoneDisplay": "Super Retina XDR display; 6.1-inch (diagonal) all-screen OLED display1; Dynamic Island; ProMotion technology with adaptive refresh rates up to 120Hz; Always-On display; HDR display; 2556-by-1179-pixel resolution at 460 ppi; 2,000,000:1 contrast ratio (typical); True Tone display; Wide color display (P3); Haptic Touch; 1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 2000 nits peak brightness (outdoor)",
+      "iphoneSizeandWeight":"Height: 5.77 inches (146.6 mm); Width: 2.78 inches (70.6 mm); Depth: 0.32 inch (8.25 mm); Weight: 6.60 ounces (187 grams)",
+      "iphoneCamera":"Pro camera system (48MP Main, 12MP Ultra Wide, and 12MP Telephoto); Main: 48MP, ƒ/1.78 aperture Ultra Wide: 12MP, ƒ/2.2 aperture Telephoto: 12MP, ƒ/2.8 aperture; Second-generation sensor-shift optical image stabilization; 5x, 1x, 2x, 3x optical zoom options; Adaptive True Tone flash; Photonic Engine; Deep Fusion; Smart HDR 5 for photos; Next-generation portraits with Focus and Depth Control; Portrait Lighting with six effects; Night mode; Night mode portraits; Photographic Styles; Macro photography; Apple ProRAW",
+      "buyNowLink": "https://www.apple.com/shop/buy-iphone/iphone-15-pro",
+      "pictures": [
+        {
+          "filename": "iphone15 pro.webp"
+        }
+      ]
+    },
+    {
+      "iphoneModel": "iphone 15 pro max",
+      "iphoneCapacity": "Capacity: 256GB, 512GB, 1TB",
+      "iphoneDisplay": "Super Retina XDR display; 6.7-inch (diagonal) all-screen OLED display1; Dynamic Island; ProMotion technology with adaptive refresh rates up to 120Hz; Always-On display; HDR display; 2796-by-1290-pixel resolution at 460 ppi; 2,000,000:1 contrast ratio (typical); True Tone display; Wide color display (P3); Haptic Touch; 1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 2000 nits peak brightness (outdoor)",
+      "iphoneSizeandWeight":"Height: 6.29 inches (159.9 mm); Width: 3.02 inches (76.7 mm); Depth: 0.32 inch (8.25 mm); Weight: 7.81 ounces (221 grams)",
+      "iphoneCamera":"Pro camera system (48MP Main, 12MP Ultra Wide, and 12MP Telephoto); Main: 48MP, ƒ/1.78 aperture Ultra Wide: 12MP, ƒ/2.2 aperture Telephoto: 12MP, ƒ/2.8 aperture; Second-generation sensor-shift optical image stabilization; 5x, 1x, 2x, 3x optical zoom options; Adaptive True Tone flash; Photonic Engine; Deep Fusion; Smart HDR 5 for photos; Next-generation portraits with Focus and Depth Control; Portrait Lighting with six effects; Night mode; Night mode portraits; Photographic Styles; Macro photography; Apple ProRAW",
+
+
+      "buyNowLink": "https://www.apple.com/shop/buy-iphone/iphone-15-pro",
+      "pictures": [
+        {
+          "filename": "iphone15promax.webp"
+        }
+      ]
+    },
+    {
+      "iphoneModel": "iphone 15",
+      "iphoneCapacity": "Capacity: 128GB, 256GB, 512GB",
+      "iphoneDisplay": "Super Retina XDR display; 6.1-inch (diagonal) all-screen OLED display1; Dynamic Island; ; HDR display; 2556-by-1179-pixel resolution at 460 ppi; 2,000,000:1 contrast ratio (typical); True Tone display; Wide color display (P3); Haptic Touch; 1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 2000 nits peak brightness (outdoor)",
+      "iphoneSizeandWeight":"Height: 5.81 inches (147.6 mm); Width: 2.82 inches (71.6 mm); Depth: 0.31 inch (7.80 mm); Weight: 6.02 ounces (171 grams)",
+      "iphoneCamera":"Advanced dual-camera system (48MP Main and 12MP Ultra Wide); Main: 48MP, ƒ/1.78 aperture Ultra Wide: 12MP, ƒ/2.2 aperture; Sensor-shift optical image stabilization; 5x, 1x, 2x, 3x optical zoom options; True Tone flash; Photonic Engine; Deep Fusion; Smart HDR 5 for photos; Next-generation portraits with Focus and Depth Control; Portrait Lighting with six effects; Night mode; Photographic Styles",
+
+      "buyNowLink": "https://www.apple.com/shop/buy-iphone/iphone-15",
+      "pictures": [
+        {
+          "filename": "iphone15.webp"
+        }
+      ]
+    },
+    {
+      "iphoneModel": "iphone 15 plus",
+      "iphoneCapacity": "Capacity: 256GB, 512GB, 1TB",
+      "iphoneDisplay": "Super Retina XDR display; 6.7-inch (diagonal) all-screen OLED display1; Dynamic Island; ; HDR display; 2556-by-1179-pixel resolution at 460 ppi; 2,000,000:1 contrast ratio (typical); True Tone display; Wide color display (P3); Haptic Touch; 1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 2000 nits peak brightness (outdoor)",
+      "iphoneSizeandWeight":"Height: 5.81 inches (147.6 mm); Width: 2.82 inches (71.6 mm); Depth: 0.31 inch (7.80 mm); Weight: 6.02 ounces (171 grams)",
+      "iphoneCamera":"Advanced dual-camera system (48MP Main and 12MP Ultra Wide); Main: 48MP, ƒ/1.78 aperture Ultra Wide: 12MP, ƒ/2.2 aperture; Sensor-shift optical image stabilization; 5x, 1x, 2x, 3x optical zoom options; True Tone flash; Photonic Engine; Deep Fusion; Smart HDR 5 for photos; Next-generation portraits with Focus and Depth Control; Portrait Lighting with six effects; Night mode; Photographic Styles",
+
+      "buyNowLink": "https://www.apple.com/shop/buy-iphone/iphone-15",
+      "pictures": [
+        {
+          "filename": "iphone15plus.webp"
+        }
+      ]
+    }
+  ]
+}
